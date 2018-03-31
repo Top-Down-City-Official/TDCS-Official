@@ -1,0 +1,4 @@
+admin=Apply for Admin-Ship
+email=muhommadraahim1@gmail.com
+call=asda
+

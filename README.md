@@ -1,5 +1,6 @@
 <p align="center">
  <a href="https://imgbb.com/"><img src="https://image.ibb.co/dW1VqS/tdc.png" alt="tdc" border="0"></a>
+ <a href="https://fontmeme.com/grand-theft-auto-font/"><img src="https://fontmeme.com/permalink/180402/2ed652c5f0969d12d115cf590bd2012b.png" alt="grand-theft-auto-font" border="0"></a>
 </p>
 <br/>
 

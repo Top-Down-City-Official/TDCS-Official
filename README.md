@@ -1,6 +1,6 @@
-<p align="center"><a href="https://imgbb.com/"><img src="https://image.ibb.co/dW1VqS/tdc.png" alt="tdc" border="0"></a></p>
-# TOP DOWN CITY SERVER-Official<br />
- TDCS Official Community for GTA-MULTIPLAYER & CS1.6 SERVERS
+<p align="center"><a href="https://imgbb.com/"><img src="https://image.ibb.co/dW1VqS/tdc.png" alt="tdc" border="0"></a></p><br />
+# TOP DOWN CITY SERVER-Official
+ <br>TDCS Official Community for GTA-MULTIPLAYER & CS1.6 SERVERS
 
 # Team
 MEGAMIND<br>

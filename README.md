@@ -22,3 +22,6 @@ Death Master<br>
 # Discord
 <a href="https://discord.gg/WVjRMdj">Join US</a>
 
+# Website
+<a href="http://tdcs-official.bitballoon.com/">www.tdcs-official.org</a>
+

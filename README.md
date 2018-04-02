@@ -19,3 +19,6 @@ vito gta<br>
 Death Master<br>
 =MA=vErTiGo<br>
 
+# Discord
+<a href="https://discord.gg/WVjRMdj">Join US</a>
+

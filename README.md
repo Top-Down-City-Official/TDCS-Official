@@ -3,19 +3,19 @@
 TDCS Official Community for GTA-MULTIPLAYER & CS1.6 SERVERS
 
 # Team
-MEGAMIND
-KHATTAKS
-MRDK
-Nicolas Balestat 
-[MPP]Owner 
-Waqar Butt (qarx) 
-Anik
-[TDK]M.R.K
-=TDK=M.[D].K^ 
-Lukshya
-Ice Flake
-PunkNoodle
-vito gta
-Death Master
-=MA=vErTiGo
+MEGAMIND<br>
+KHATTAKS<br>
+MRDK<br>
+Nicolas Balestat<br> 
+[MPP]Owner <br>
+Waqar Butt (qarx) <br>
+Anik<br>
+[TDK]M.R.K<br>
+=TDK=M.[D].K^ <br>
+Lukshya<br>
+Ice Flake<br>
+PunkNoodle<br>
+vito gta<br>
+Death Master<br>
+=MA=vErTiGo<br>
 

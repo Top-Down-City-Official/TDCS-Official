@@ -85,7 +85,29 @@ body {font-family: "Lato", sans-serif}
       <p><b>Gaming like never before</b></p>    
     </div>
   </div>
-
+  <br><br>
+<script language="Javascript">MyBanners=new Array('bimg/banner1.jpg','bimg/banner2.jpg','bimg/banner3.jpg','bimg/banner4.jpg')
+MyBannerLinks=new Array('web-net.tk/webnet-official-titanium-p/webnetgithub/webnet%20official%20security%20check/webnet%20bootstrap%20main%20page/webnet%20template/web-hosting/','web-net.000webhostapp.com/webnet playstore/select-platfrom.html','web-net.tk','web-net.tk/webnet-official-titanium-p/webnetgithub/webnet%20official%20security%20check/webnet%20bootstrap%20main%20page/webnet%20template/web-hosting/hosting.html')
+banner=0
+function ShowLinks(){
+document.location.href="http://"+MyBannerLinks[banner]
+}function ShowBanners()
+{ if (document.images)
+{ banner++
+if (banner==MyBanners.length) {
+banner=0}
+document.ChangeBanner.src=MyBanners[banner]
+setTimeout("ShowBanners()",5000)
+}
+}
+</script>
+<body onload="ShowBanners()">
+<center>
+<a href="javascript: ShowLinks()">
+<img src="banner1.jpg" width="600" height="120" name="ChangeBanner"/></a>
+</center>
+</body>
+<br><br>
   <!-- The About Section -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="About">
     <h2 class="w3-wide">TDCS Welcome's you</h2>

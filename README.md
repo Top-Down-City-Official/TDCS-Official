@@ -25,7 +25,8 @@ vito gta<br>
 Death Master<br>
 =MA=vErTiGo<br>
 RuKriM<br>
-Lιση
+Lιση<br>
+Sarrum
 
 # Discord
 <a href="https://discord.gg/WVjRMdj">Join US</a>

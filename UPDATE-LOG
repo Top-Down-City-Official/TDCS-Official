@@ -69,5 +69,5 @@ CITIZEN IV TDCS UPDATED
 // ====== Citizen iv:mp=====
 [Citizen-IV:MP]Top Down City Server
 1. Added custom vehicles
-2. Added Deathmatch modes
-3. Added monstermash derby mode
+2. Added Deathmatch modes /dmodes -> dm, rpgdm
+3. Added minigames modes /minigames -> monstermash, derby

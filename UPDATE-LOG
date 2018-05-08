@@ -78,7 +78,7 @@ CITIZEN IV TDCS UPDATED
 2.removed free roam cmds
 3.redesigned script from scratch
 4.added commands according to the type
-5.pending death messages
-6.pending score
-7.pending cash increment
+5.added death messages
+6.added spawn messages
+7.added player kill system
 8.added drift arena

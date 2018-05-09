@@ -98,3 +98,11 @@ CITIZEN IV TDCS UPDATED
 3. fixed playerkill function
 4. fixed minor bugs
 5. player spawn message spam --> pending
+
+// ====== Citizen iv:mp=====
+[Citizen-IV:MP]Top Down City Server
+1.added help cmd
+2.added rules
+3.added bindkey
+4.added liberator monster truck
+5.improved monstermash dm stadium

@@ -1,7 +1,5 @@
 <p align="center">
- <!--<a href="https://imgbb.com/"><img src="https://image.ibb.co/dW1VqS/tdc.png" alt="tdc" border="0"></a>-->
- <!--<a href="https://fontmeme.com/grand-theft-auto-font/"><img src="https://fontmeme.com/permalink/180402/2ed652c5f0969d12d115cf590bd2012b.png" alt="grand-theft-auto-font" border="0"></a>-->
- <a href="https://fontmeme.com/grand-theft-auto-font/"><img src="https://fontmeme.com/permalink/180402/823e0f67ef432b7faa54d8bc377d620e.png" alt="grand-theft-auto-font" border="0"></a></p>
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/ihXM1J/final_version.png" alt="final_version" border="0"></a></p>
 <br/>
 
 # TOP DOWN CITY SERVER-Official

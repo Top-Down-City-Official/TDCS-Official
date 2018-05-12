@@ -28,7 +28,8 @@ RuKriM<br>
 Lιση<br>
 Sarrum<br>
 RPF STUDIO™<br>
-VortrexFTW
+VortrexFTW<br>
+Mex
 
 # Discord
 <a href="https://discord.gg/WVjRMdj">Join US</a>

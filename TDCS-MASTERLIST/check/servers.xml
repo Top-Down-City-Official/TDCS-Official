@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+<server id="0">
+<game>GTA: Vice City</game>
+<name>Top Down City [CO-OP]</name>
+<host>tdcs.sytes.net</host>
+<port>23546</port>
+</server>
+
+<server id="1">
+<game>GTA: San Andreas</game>
+<name>[0.3.DL]SA:MP *TOP DOWN CITY SERVER*</name>
+<host>tdcs.sytes.net</host>
+<port>7776</port>
+</server>
+
+<server id="2">
+<game>GTA: IV</game>
+<name>[Citizen-IV:MP]Top Down City Server</name>
+<host>tdcs.sytes.net</host>
+<port>30120</port>
+</server>
+
+
+<server id="3">
+<game>GTA: All</game>
+<name>Top Down City :=: GTA-CONNECTED</name>
+<host>tdcs.sytes.net</host>
+<port>22000</port>
+</server>
+
+
+<server id="4">
+<game>GTA: 3</game>
+<name>[0.1]Top Down City LC-MP Server</name>
+<host>tdcs.sytes.net</host>
+<port>2301</port>
+</server>
+
+
+<server id="5">
+<game>GTA: Vice City</game>
+<name>[0.4]Top Down City VC-MP Server</name>
+<host>tdcs.sytes.net</host>
+<port>5192</port>
+</server>
+
+
+<server id="6">
+<game>GTA: San Andreas</game>
+<name>[0.3.7]SA:MP*TOP DOWN CITY SERVER*</name>
+<host>tdcs.sytes.net</host>
+<port>7777</port>
+</server>
+
+
+<server id="7">
+<game>GTA: IV</game>
+<name>[IV:MP]Top Down City Server</name>
+<host>tdcs.sytes.net</host>
+<port>9999</port>
+</server>
+
+
+<server id="8">
+<game>GTA: V</game>
+<name>[V-MP]Top Down City Official Server</name>
+<host>tdcs.sytes.net</host>
+<port>4499</port>
+</server>
+
+
+<server id="9">
+<game>Counter Strike 1.6</game>
+<name>Top Down City (CS 1.6)</name>
+<host>tdcs.sytes.net</host>
+<port>27015</port>
+</server>
+
+</servers>

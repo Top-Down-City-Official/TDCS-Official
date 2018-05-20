@@ -39,6 +39,7 @@
 					<th class="text-center">IP</th>
 					<th class="text-center">Port</th>
 					<th class="text-center">Game</th>
+					<th class="text-center">Connect</th>
 					<!--th class="text-center deleteMode" style="width:75px">Delete</th-->
 				</tr>
                 <?php parser(); ?>
@@ -92,7 +93,7 @@ function getStatus($ip, $port)
 	else return true;
 }
 
-function addServer($name, $host, $port, $game)
+function addServer($name, $host, $port, $game, $connect)
 {
 	// TODO : rewrite the opening part correctly (better errors management)
 	$i = 0;
@@ -117,6 +118,7 @@ function addServer($name, $host, $port, $game)
 	$server->addChild('host', (string)$host);
 	$server->addChild('port', (string)$port);
 	$server->addChild('game', (string)$game);
+	$server->addChild('connect', (string)$connect);
 	$servers->asXML($filename);
 }
 
@@ -151,6 +153,7 @@ function parser()
 
 				echo "<td class=\"text-center\">".$server->port."</td>";
                 echo "<td class=\"text-center\">".$server->game."</td>";
+				echo "<td class=\"text-center\">".$server->connect."</td>";
 				if (getStatus((string)$server->host, (string)$server->port))
 				{
 					//echo "<td class=\"text-center\"><span class=\"label label-success\">Online</span></td>";

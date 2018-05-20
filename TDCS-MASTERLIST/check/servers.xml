@@ -9,7 +9,7 @@
 </server>
 
 <server id="1">
-<connect><![CDATA[<a href="samp://pay.tdcs.sytes.net:7776">Connect</a>]]></connect>
+<connect><![CDATA[<a href="samp://play.tdcs.sytes.net:7776">Connect</a>]]></connect>
 <game>GTA: San Andreas</game>
 <name>[0.3.DL]SA:MP *TOP DOWN CITY SERVER*</name>
 <host>tdcs.sytes.net</host>
@@ -53,7 +53,7 @@
 
 
 <server id="6">
-<connect><![CDATA[<a href="samp://pay.tdcs.sytes.net:7777">Connect</a>]]></connect>
+<connect><![CDATA[<a href="samp://play.tdcs.sytes.net:7777">Connect</a>]]></connect>
 <game>GTA: San Andreas</game>
 <name>[0.3.7]SA:MP*TOP DOWN CITY SERVER*</name>
 <host>tdcs.sytes.net</host>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+<server id="0">
+<connect><![CDATA[<a href="vccoop:host=tdcs.sytes.net;port=23546;autoconnect;">Connect</a>]]></connect>
+<game>GTA: Vice City</game>
+<name>Top Down City [CO-OP]</name>
+<host>tdcs.sytes.net</host>
+<port>23546</port>
+</server>
+
+<server id="1">
+<connect><![CDATA[<a href="samp://play.tdcs.sytes.net:7776">Connect</a>]]></connect>
+<game>GTA: San Andreas</game>
+<name>[0.3.DL]SA:MP *TOP DOWN CITY SERVER*</name>
+<host>tdcs.sytes.net</host>
+<port>7776</port>
+</server>
+
+<server id="2">
+<connect><![CDATA[<a href="http://tdcs.sytes.net:30120">Connect</a>]]></connect>
+<game>GTA: IV</game>
+<name>[Citizen-IV:MP]Top Down City Server</name>
+<host>tdcs.sytes.net</host>
+<port>30120</port>
+</server>
+
+
+<server id="3">
+<connect><![CDATA[<a href="http://tdcs.sytes.net:22000">Connect</a>]]></connect>
+<game>GTA: All</game>
+<name>Top Down City :=: GTA-CONNECTED</name>
+<host>tdcs.sytes.net</host>
+<port>22000</port>
+</server>
+
+
+<server id="4">
+<connect><![CDATA[<a href="lu://connect/tdcs.sytes.net:2301">Connect</a>]]></connect>
+<game>GTA: 3</game>
+<name>[0.1]Top Down City LC-MP Server</name>
+<host>tdcs.sytes.net</host>
+<port>2301</port>
+</server>
+
+
+<server id="5">
+<connect><![CDATA[<a href="vcmp://connect/tdcs.sytes.net:5192">Connect</a>]]></connect>
+<game>GTA: Vice City</game>
+<name>[0.4]Top Down City VC-MP Server</name>
+<host>tdcs.sytes.net</host>
+<port>5192</port>
+</server>
+
+
+<server id="6">
+<connect><![CDATA[<a href="samp://play.tdcs.sytes.net:7777">Connect</a>]]></connect>
+<game>GTA: San Andreas</game>
+<name>[0.3.7]SA:MP*TOP DOWN CITY SERVER*</name>
+<host>tdcs.sytes.net</host>
+<port>7777</port>
+</server>
+
+
+<!--<server id="7">
+<game>GTA: IV</game>
+<name>[IV:MP]Top Down City Server</name>
+<host>tdcs.sytes.net</host>
+<port>9999</port>
+</server>-->
+
+
+<server id="7">
+<connect><![CDATA[<a href="gtmp://tdcs.sytes.net:4499">Connect</a>]]></connect>
+<game>GTA: V</game>
+<name>[V-MP]Top Down City Official Server</name>
+<host>tdcs.sytes.net</host>
+<port>4499</port>
+</server>
+
+
+<server id="8">
+<connect><![CDATA[<a href="steam://connect/tdcs.sytes.net:27015">Connect</a>]]></connect>
+<game>Counter Strike 1.6</game>
+<name>Top Down City (CS 1.6)</name>
+<host>tdcs.sytes.net</host>
+<port>27015</port>
+</server>
+
+</servers>

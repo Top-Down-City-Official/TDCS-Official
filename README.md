@@ -26,8 +26,7 @@ Lιση<br>
 Sarrum<br>
 RPF STUDIO™<br>
 VortrexFTW<br>
-Mex<br>
-knicks
+Mex
 
 # Discord
 <a href="https://discord.gg/WVjRMdj">Join US</a>

@@ -162,3 +162,9 @@ fixed bugs in race1 + added map pointer to race support
 10/06/2018 -> Update:-
 Added Game mode
 labyrinth ( Maze )
+
+13/06/2018 -> Update:-
+Fixed game mode "Destruction Rally" car wep sync
+Added car jump "Destruction Rally"
+Moved TDCS to WebNet Host
+Register System Fixed

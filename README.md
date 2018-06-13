@@ -27,7 +27,6 @@ Sarrum<br>
 RPF STUDIO™<br>
 VortrexFTW<br>
 Mex<br>
-[uft]Knicks<br>
 Athanatos
 
 # Discord

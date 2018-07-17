@@ -27,7 +27,8 @@ Sarrum<br>
 RPF STUDIO™<br>
 VortrexFTW<br>
 Mex<br>
-Athanatos
+Athanatos<br>
+Zeus
 
 # Discord
 <a href="https://discord.gg/WVjRMdj">Join US</a>

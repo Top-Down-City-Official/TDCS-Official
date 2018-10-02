@@ -31,7 +31,7 @@ Athanatos<br>
 Zeus
 
 # Discord
-<a href="https://discord.gg/WVjRMdj">Join US</a>
+<a href="https://discord.gg/Jb4CU52">Join US</a>
 
 # Website
 <a href="https://tdcs.netlify.com/">www.tdcs-official.org</a>
